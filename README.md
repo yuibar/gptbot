@@ -1,3 +1,6 @@
+I am honored that DARTNODE is offering a free server to sponsor my project.DARTNODE's official website:https://dartnode.com
+![297966509-bda45b56-490a-4964-a782-6e0e70783d36](https://github.com/yuibar/gptbot/assets/124268782/78302bb8-b640-45aa-8abf-019d25cadfbe)
+
 # ChatGPT Telegram Bot
 
 ## fly.io 远程部署
